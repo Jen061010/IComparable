@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\curso asp.net\IComparable\IComparable\bin\Debug\IComparable_ej.exe.config
+C:\Users\admin\Desktop\curso asp.net\IComparable\IComparable\bin\Debug\IComparable_ej.exe
+C:\Users\admin\Desktop\curso asp.net\IComparable\IComparable\bin\Debug\IComparable_ej.pdb
+C:\Users\admin\Desktop\curso asp.net\IComparable\IComparable\obj\Debug\IComparable_ej.exe
+C:\Users\admin\Desktop\curso asp.net\IComparable\IComparable\obj\Debug\IComparable_ej.pdb
+C:\Users\admin\Desktop\curso asp.net\IComparable\IComparable\obj\Debug\IComparable.csprojResolveAssemblyReference.cache
